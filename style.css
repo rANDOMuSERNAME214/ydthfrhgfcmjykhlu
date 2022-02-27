@@ -1,0 +1,37 @@
+.startingfont{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 100px;
+    color: yellow;
+    flex-wrap: wrap;
+}
+
+.fyifont{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow;
+}
+
+.homefont{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+     color:yellow
+}
+
+.homefontbutsmaller{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+     color:yellow
+}
+
+.headings{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+     color:yellow
+}
+
+.depression{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: yellow;
+    flex-wrap: wrap;
+}
